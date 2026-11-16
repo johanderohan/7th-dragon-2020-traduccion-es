@@ -1,0 +1,5 @@
+*.iso
+*.cso
+*.bin
+*.xdelta
+.DS_Store
