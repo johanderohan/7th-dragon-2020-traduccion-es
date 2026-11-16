@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/psp/7th-dragon-2020)**.
+
 Traducción al **castellano de España** de la versión japonesa de PSP de *7th Dragon 2020*
 (NPJH-50459). Se ha traducido desde el japonés, sin usar el texto de ningún otro parche.
 
